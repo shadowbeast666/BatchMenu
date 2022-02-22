@@ -1,0 +1,6 @@
+Nr,Nazwisko,wynagrodzenie,premia
+1,Kowal,1000,300
+2,Nowak,900,500
+3,Krol,750,5.200
+4,qwe,2137,3200
+5,XDDD,2121,420
